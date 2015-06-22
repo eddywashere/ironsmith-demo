@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ironsmith]]></title><description><![CDATA[Ironsmith]]></description><link>http://example.com</link><generator>metalsmith-feed</generator><lastBuildDate>Mon, 22 Jun 2015 05:12:06 GMT</lastBuildDate><atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Yet another Blog Post Title Part 2]]></title><description><![CDATA[<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/yet-another-blog-post-title-part-2</link><guid isPermaLink="true">http://example.com/blog/yet-another-blog-post-title-part-2</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Mon, 22 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Updates from the blog]]></title><description><![CDATA[<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/updates-from-the-blog</link><guid isPermaLink="true">http://example.com/blog/updates-from-the-blog</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Sat, 06 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lorem ipsum again]]></title><description><![CDATA[<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/lorem-ipsum-again</link><guid isPermaLink="true">http://example.com/blog/lorem-ipsum-again</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Fri, 29 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[blog title here]]></title><description><![CDATA[<p>Yo lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo voluptas iusto ipsa, accusamus soluta! Voluptatem in quas dolorum officiis, porro ea quibusdam eligendi, sapiente dolore repellat labore asperiores vitae tempore.</p>
+<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/blog-title-here</link><guid isPermaLink="true">http://example.com/blog/blog-title-here</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Sun, 24 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Yet another blog post part 1]]></title><description><![CDATA[<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/yet-another-blog-post-part-1</link><guid isPermaLink="true">http://example.com/blog/yet-another-blog-post-part-1</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Blog Post Title]]></title><description><![CDATA[<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/blog-post-title</link><guid isPermaLink="true">http://example.com/blog/blog-post-title</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Mon, 02 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lorem dolor sit amet]]></title><description><![CDATA[<p>There is a significant amount of subtle, yet precisely calibrated, styling to ensure
+that your content is emphasized while still looking aesthetically pleasing.</p>
+<p>All links are easy to <a href="#">locate and discern</a>, yet don&#39;t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency&#39;s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+<p>Code blocks use the <a href="http://ethanschoonover.com/solarized">solarized</a> theme. Both the light and
+dark versions are included, so you can swap them out easily. <em>Solarized Dark</em> is the default.</p>
+<pre><code class="hljs ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Awesome</span> <span class="hljs-inheritance">&lt; <span class="hljs-parent">ActiveRecord::Base</span></span></span>
+  <span class="hljs-keyword">include</span> <span class="hljs-constant">EvenMoreAwesome</span>
+
+  validates_presence_of <span class="hljs-symbol">:something</span>
+  validates <span class="hljs-symbol">:email</span>, <span class="hljs-symbol">email_format:</span> <span class="hljs-keyword">true</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>initialize(email, name = <span class="hljs-keyword">nil</span>)
+    <span class="hljs-keyword">self</span>.email = email
+    <span class="hljs-keyword">self</span>.name = name
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span></code></pre>
+
+<h1 id="headings-">Headings!</h1>
+<p>They&#39;re responsive, and well-proportioned (in <code>padding</code>, <code>line-height</code>, <code>margin</code>, and <code>font-size</code>).
+They also heavily rely on the awesome utility, <a href="http://www.basscss.com/">BASSCSS</a>.</p>
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+<h3 id="there-are-lists-too">There are lists, too</h3>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Potatoes</li>
+<li><p>Milk</p>
+</li>
+<li><p>Mow the lawn</p>
+</li>
+<li>Feed the dog</li>
+<li>Dance</li>
+</ul>
+<h3 id="images-look-great-too">Images look great, too</h3>
+<p><img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="desk"></p>
+<h3 id="there-are-also-pretty-colors">There are also pretty colors</h3>
+<p>Also the result of <a href="http://www.basscss.com/">BASSCSS</a>, you can <span class="bg-dark-gray white">highlight</span> certain components
+of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.</p>
+<p>I don&#39;t recommend using blue, though. It looks like a <span class="blue">link</span>.</p>
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+<p>You can use the markdown quote syntax, <code>&gt;</code> for simple quotes.</p>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+<p>However, you need to inject html if you&#39;d like a citation footer. I will be working on a way to
+hopefully sidestep this inconvenience.</p>
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h3 id="there-s-more-being-added-all-the-time">There&#39;s more being added all the time</h3>
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to request,
+or add, features.</p>
+<p>Happy writing.</p>
+]]></description><link>http://example.com/blog/lorem-dolor-sit-amet</link><guid isPermaLink="true">http://example.com/blog/lorem-dolor-sit-amet</guid><dc:creator><![CDATA[Tyler Durden]]></dc:creator><pubDate>Mon, 05 May 2014 00:00:00 GMT</pubDate></item></channel></rss>
