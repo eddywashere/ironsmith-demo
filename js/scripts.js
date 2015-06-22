@@ -1,3 +1,1 @@
-(function(window, document, undefined) {
-  console.log('ello world!');
-})(window, document);
+!function(o,l,n){console.log("ello world!")}(window,document);
