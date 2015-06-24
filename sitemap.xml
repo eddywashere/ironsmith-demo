@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>http://eddywashere.github.io/ironsmith-demo</loc>
+        <lastmod>2015-06-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>http://eddywashere.github.io/projects</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/styleguide</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/blog-post-title</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/yet-another-blog-post-part-1</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/lorem-ipsum-again</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/yet-another-blog-post-title-part-2</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/updates-from-the-blog</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/lorem-dolor-sit-amet</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/blog-title-here</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/1/index.html</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/index.html</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://eddywashere.github.io/blog/2/index.html</loc>
-        <lastmod>2015-06-21</lastmod>
+        <lastmod>2015-06-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>http://eddywashere.github.io/ironsmith-demo</loc>
-        <lastmod>2015-06-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
     </url>
 
 </urlset>
